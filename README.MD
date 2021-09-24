@@ -2,7 +2,7 @@
  
  ## This chat room is created using HTML, CSS and JS
  
- ### Try it out: 🌟   [Live demo](https://harsh-chat-room.herokuapp.com)
+ ### Try it out: 🌟   [Live demo](https://harsh-lucky-birthday.netlify.app/)
  
  
 
